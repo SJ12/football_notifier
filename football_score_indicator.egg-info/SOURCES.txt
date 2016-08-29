@@ -1,0 +1,11 @@
+README
+footballscores_indicator
+football_score_indicator/Preferences.py
+football_score_indicator/__init__.py
+football_score_indicator/configuration.py
+football_score_indicator/espnfootball_scrap.py
+football_score_indicator/football_indicator.py
+football_score_indicator.egg-info/PKG-INFO
+football_score_indicator.egg-info/SOURCES.txt
+football_score_indicator.egg-info/dependency_links.txt
+football_score_indicator.egg-info/top_level.txt
